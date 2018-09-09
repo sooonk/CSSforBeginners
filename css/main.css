@@ -20,6 +20,7 @@ h1{
 
 TARGETING ELEMENTS
 */
+/*
 p{
     font-size: 12px;
     color: red;
@@ -38,3 +39,22 @@ div{
     width: 100%;
     background-color: grey;
 }
+*/
+/*
+h2{
+    font-size: 24px;
+}
+#content-header{
+    font-size: 18px;
+    color: red;
+}
+span{
+    display: block;
+    color: blue;    
+}
+.deck{
+    color: blueviolet;
+}
+
+Inheritance*/
+
