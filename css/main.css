@@ -56,5 +56,61 @@ span{
     color: blueviolet;
 }
 
-Inheritance*/
+Important declaration*/
+/*
+p{
+    color: red !important;
+}
+
+#main-content p{
+    color: green;
+}
+
+Targeting Multiple Elements*/
+/*
+p, span, a, li{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+Descendant Selectors*/
+/*
+#main-content #sub-content  p{
+    color: red;
+}
+
+Childen*/
+/*
+#main-content > p{
+    color: red;
+}
+Adjacent Selectors*/
+
+/*#all-articles h2 + p{
+    color: green;
+}
+
+Atributes selectors*/
+
+/*span[class~="deck"]{
+    color: purple;
+}
+
+div[id]{
+    background: grey;
+}
+a[title]{
+    color: purple;
+}
+a[title="Search engine"]{
+    color: yellow;
+}
+
+a[href$="pdf"]{
+    color: green;
+}
+
+Pseudo-Classes*/
 
