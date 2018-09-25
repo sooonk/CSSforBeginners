@@ -113,4 +113,76 @@ a[href$="pdf"]{
 }
 
 Pseudo-Classes*/
+/*
+a:hover{
+    color: red;
+}
+
+#main-content:hover{
+    color: red;
+}
+First and last child selectors*/
+
+/*
+article p:first-child{
+    font-weight: bold;
+    }
+
+article p:last-child{
+    color: red;
+}
+First and last of-type selectors*/
+
+/*article p:first-of-type{
+    font-weight: bold;
+    }
+
+article p:last-of-type{
+    color: red;
+    */
+
+/*li:nth-child(1), li:nth-child(7){
+ font-weight: bold;
+}
+
+li:nth-child(even){
+    background: grey;
+}
+li:nth-child(odd){
+    background: pink;
+}
+li:nth-child(3n + 1){
+    color: yellow;
+}*/
+
+/*article:nth-of-type(2n+2){
+    background: grey;
+}*/
+
+/*article.featured-content{
+    background: red;
+}
+
+div.featured-content{
+    background: blue;
+}
+Universal selector*/
+/*
+*{
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+*/
+/*article{
+    font-size: 16px;
+
+}
+article h2{
+    font-size: 3em;
+}
+article p{
+    font-size: 75%;
+}
+*/
 
