@@ -185,4 +185,6 @@ article p{
     font-size: 75%;
 }
 */
-
+article h2, article p{
+    font-family: xfont, Hfot, serif;
+}
