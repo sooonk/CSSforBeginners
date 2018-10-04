@@ -185,6 +185,69 @@ article p{
     font-size: 75%;
 }
 */
+/*
 article h2, article p{
     font-family: xfont, Hfot, serif;
+}
+ */
+
+ /*h1{
+     font-weight: normal;
+    
+ }
+p{
+    font-weight: 100;
+    font-family: "Yu Gothic";
+}
+Text transform*/
+
+/*#header p{
+    text-transform: capitalize;
+}
+
+body{
+    text-transform: uppercase;
+
+}
+*/
+
+/*a{
+  color: crimson;
+  text-decoration: none;
+  font-weight: bold;
+
+}
+a:hover{
+    color: darkmagenta;
+    text-decoration: underline;
+    background-color: blanchedalmond;
+}*/
+/*.box{
+    margin: 30px;
+    padding: 30px;
+    border: 1px solid #000;
+    width: 400px;
+    height: 200px;
+}
+*/
+/*.box{
+    margin: 30px auto;
+    padding: 30px;
+    border: 1px solid #000;
+    width: 300px;
+}*/
+
+/*.box{
+    margin: 30px auto;
+    padding: 30px 20%;
+    border: 1px solid #000;
+}*/
+.box{
+    border: 1px solid #000;
+    margin-top: 10px;
+    padding: 20px;
+
+}
+.small{
+    padding-left: 5px;
 }
